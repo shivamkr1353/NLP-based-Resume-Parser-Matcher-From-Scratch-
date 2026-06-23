@@ -1,0 +1,80 @@
+{
+    "programming": [
+        "python", "java", "javascript", "typescript", "c++", "c#", "ruby",
+        "go", "golang", "rust", "swift", "kotlin", "scala", "php", "perl",
+        "r", "matlab", "sql", "bash", "shell", "powershell", "dart",
+        "objective-c", "lua", "haskell", "elixir", "clojure"
+    ],
+    "ml_ai": [
+        "machine learning", "deep learning", "neural network", "tensorflow",
+        "pytorch", "keras", "scikit-learn", "sklearn", "nlp",
+        "natural language processing", "computer vision", "opencv",
+        "reinforcement learning", "random forest", "decision tree",
+        "gradient boosting", "xgboost", "lightgbm", "catboost",
+        "logistic regression", "linear regression", "svm",
+        "support vector machine", "clustering", "k-means",
+        "principal component analysis", "pca", "cnn", "rnn", "lstm",
+        "transformer", "bert", "gpt", "generative ai", "llm",
+        "hugging face", "spacy", "nltk", "word2vec", "embedding",
+        "feature engineering", "model training", "hyperparameter tuning",
+        "cross validation", "neural networks"
+    ],
+    "data_science": [
+        "data analysis", "data visualization", "statistics",
+        "pandas", "numpy", "scipy", "matplotlib", "seaborn", "plotly",
+        "tableau", "power bi", "excel", "jupyter", "data mining",
+        "data wrangling", "data cleaning", "data pipeline",
+        "etl", "eda", "exploratory data analysis", "a/b testing",
+        "hypothesis testing", "regression analysis", "time series",
+        "forecasting", "bayesian", "probability"
+    ],
+    "web_development": [
+        "html", "css", "react", "angular", "vue", "svelte",
+        "node.js", "nodejs", "express", "django", "flask", "fastapi",
+        "spring", "spring boot", ".net", "asp.net", "rails",
+        "next.js", "nextjs", "gatsby", "webpack", "vite",
+        "rest", "restful", "api", "graphql", "websocket",
+        "responsive design", "bootstrap", "tailwind",
+        "sass", "less", "jquery", "ajax"
+    ],
+    "cloud_devops": [
+        "aws", "amazon web services", "azure", "gcp",
+        "google cloud", "docker", "kubernetes", "k8s",
+        "terraform", "ansible", "jenkins", "ci/cd", "cicd",
+        "continuous integration", "continuous deployment",
+        "github actions", "gitlab ci", "circleci",
+        "linux", "unix", "nginx", "apache",
+        "monitoring", "prometheus", "grafana", "elk",
+        "microservices", "serverless", "lambda",
+        "cloud computing", "infrastructure as code", "iac",
+        "load balancing", "auto scaling"
+    ],
+    "databases": [
+        "mysql", "postgresql", "postgres", "mongodb", "redis",
+        "elasticsearch", "cassandra", "dynamodb", "sqlite",
+        "oracle", "sql server", "mariadb", "neo4j",
+        "firebase", "supabase", "couchdb", "influxdb",
+        "database design", "database management", "nosql",
+        "data modeling", "stored procedures", "indexing"
+    ],
+    "tools_platforms": [
+        "git", "github", "gitlab", "bitbucket",
+        "jira", "confluence", "trello", "asana",
+        "slack", "vs code", "intellij", "pycharm",
+        "postman", "swagger", "figma", "sketch",
+        "npm", "pip", "maven", "gradle",
+        "agile", "scrum", "kanban", "waterfall",
+        "tdd", "test driven development",
+        "unit testing", "integration testing", "pytest",
+        "jest", "selenium", "cypress"
+    ],
+    "soft_skills": [
+        "leadership", "communication", "teamwork", "collaboration",
+        "problem solving", "critical thinking", "analytical",
+        "project management", "time management", "adaptability",
+        "creativity", "innovation", "mentoring", "coaching",
+        "presentation", "public speaking", "negotiation",
+        "decision making", "strategic thinking", "attention to detail",
+        "stakeholder management", "cross-functional"
+    ]
+}

@@ -1,0 +1,51 @@
+KAVITA MEHTA
+Marketing Analyst
+Email: kavita.mehta@email.com | Phone: +91 9900112233 | LinkedIn: linkedin.com/in/kavitamehta
+Location: Delhi, India
+
+SUMMARY
+Marketing Analyst with 3 years of experience in digital marketing analytics and campaign 
+optimization. Expertise in Google Analytics, SEO, social media analytics, and marketing 
+automation. Data-driven professional who uses Excel and Tableau to deliver actionable insights.
+
+EXPERIENCE
+
+Senior Marketing Analyst | BrandPulse Media | Feb 2023 - Present
+- Analyzed campaign performance data across Google Ads, Facebook Ads, and Instagram
+- Built weekly performance dashboards using Tableau and Google Data Studio
+- Conducted A/B testing on email campaigns, improving click-through rates by 25%
+- Managed SEO optimization strategy, increasing organic traffic by 40%
+- Used Google Analytics and Tag Manager for website tracking and conversion optimization
+- Created monthly reports with ROI analysis for marketing spend of $500K+
+
+Marketing Data Analyst | DigitalGrowth Agency | Jul 2021 - Jan 2023
+- Collected and analyzed customer behavior data using Google Analytics
+- Built Excel dashboards with pivot tables and VLOOKUP for campaign reporting
+- Performed market research and competitor analysis for 15+ clients
+- Managed social media analytics using Hootsuite and Sprout Social
+- Assisted in customer segmentation using basic clustering in Excel
+
+Marketing Intern | AdWorks Creative | Jan 2021 - Jun 2021
+- Supported the analytics team in data collection and report generation
+- Learned Google Analytics fundamentals and earned GA4 certification
+- Created presentations for client meetings using PowerPoint
+
+EDUCATION
+Master of Business Administration (MBA) in Marketing | Delhi University | 2019-2021
+- CGPA: 7.9/10
+
+Bachelor of Commerce (B.Com) | Delhi University | 2016-2019
+- CGPA: 7.5/10
+
+SKILLS
+Analytics: Google Analytics, Google Tag Manager, Google Data Studio
+Visualization: Tableau, Power BI, Excel (Advanced), Google Sheets
+Marketing: SEO, SEM, Google Ads, Facebook Ads, Email Marketing
+Tools: Hootsuite, Mailchimp, HubSpot, Salesforce, WordPress
+Other: Market Research, A/B Testing, Customer Segmentation, PowerPoint
+
+CERTIFICATIONS
+- Google Analytics Individual Qualification (GAIQ)
+- Google Ads Search Certification
+- HubSpot Inbound Marketing Certification
+- Tableau Desktop Specialist

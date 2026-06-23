@@ -1,0 +1,50 @@
+RAJESH KUMAR
+Senior Data Scientist
+Email: rajesh.kumar@email.com | Phone: +91 9876543210 | LinkedIn: linkedin.com/in/rajeshkumar
+Location: Bangalore, India
+
+SUMMARY
+Experienced Data Scientist with 4 years of expertise in machine learning, deep learning, and NLP. 
+Passionate about building production-grade ML models that drive business impact. Strong background 
+in Python, TensorFlow, and statistical modeling.
+
+EXPERIENCE
+
+Senior Data Scientist | DataMinds Analytics | Jan 2023 - Present
+- Built and deployed a customer churn prediction model using gradient boosting (XGBoost), achieving 92% accuracy
+- Developed an NLP pipeline for sentiment analysis using TF-IDF vectorization and logistic regression
+- Created automated data pipelines using Python, pandas, and Apache Airflow
+- Led a team of 3 junior data scientists, conducted code reviews and mentoring sessions
+- Presented monthly insights to C-suite executives using Tableau dashboards
+
+Data Scientist | TechStar Solutions | Jul 2021 - Dec 2022
+- Implemented a recommendation system using collaborative filtering with Python and scikit-learn
+- Performed exploratory data analysis on datasets with 10M+ records using pandas and numpy
+- Built deep learning models for image classification using TensorFlow and Keras (CNN architecture)
+- Deployed ML models to AWS SageMaker with Docker containers
+- Reduced model inference time by 40% through optimization and feature engineering
+
+Data Analyst Intern | InfoBridge Corp | Jan 2021 - Jun 2021
+- Analyzed sales data using SQL and Python to identify revenue trends
+- Created interactive dashboards using matplotlib and seaborn
+- Assisted in A/B testing experiments and statistical hypothesis testing
+
+EDUCATION
+Master of Technology (M.Tech) in Computer Science | IIT Delhi | 2019-2021
+- Thesis: "Attention-based Neural Networks for Text Classification"
+- CGPA: 8.7/10
+
+Bachelor of Technology (B.Tech) in Information Technology | NIT Warangal | 2015-2019
+- CGPA: 8.2/10
+
+SKILLS
+Programming: Python, SQL, R, Java
+ML/AI: TensorFlow, PyTorch, Keras, scikit-learn, XGBoost, NLP, Deep Learning
+Data Tools: pandas, numpy, matplotlib, seaborn, Tableau, Jupyter
+Cloud: AWS (SageMaker, EC2, S3), Docker, Git
+Techniques: Classification, Regression, Clustering, NLP, Computer Vision, Feature Engineering
+
+CERTIFICATIONS
+- AWS Machine Learning Specialty
+- TensorFlow Developer Certificate
+- Deep Learning Specialization (Coursera - Andrew Ng)

@@ -1,0 +1,34 @@
+Senior Data Scientist
+
+Company: TechVision Analytics
+Location: Bangalore, India (Hybrid)
+Experience: 3-5 years
+
+About the Role:
+We are looking for a Senior Data Scientist to join our AI team. You will lead the development of machine learning models that drive business decisions across our product suite.
+
+Responsibilities:
+- Design, build, and deploy machine learning models for production use
+- Perform exploratory data analysis on large-scale datasets
+- Develop NLP pipelines for text classification and sentiment analysis
+- Build recommendation systems using collaborative filtering
+- Create data visualizations and dashboards for stakeholders
+- Mentor junior data scientists and conduct code reviews
+- Write technical documentation and present findings to leadership
+
+Requirements:
+- Bachelor's or Master's degree in Computer Science, Statistics, or related field
+- 3-5 years of experience in data science or machine learning
+- Strong proficiency in Python and SQL
+- Hands-on experience with TensorFlow or PyTorch
+- Experience with scikit-learn, pandas, numpy, matplotlib
+- Knowledge of NLP techniques (tokenization, TF-IDF, word embeddings)
+- Experience with cloud platforms (AWS or GCP)
+- Familiarity with Docker and CI/CD pipelines
+- Strong problem-solving and communication skills
+
+Preferred Qualifications:
+- Published research in ML/AI conferences
+- Experience with deep learning (CNN, RNN, Transformer models)
+- Knowledge of MLOps and model monitoring
+- Experience with Spark or distributed computing

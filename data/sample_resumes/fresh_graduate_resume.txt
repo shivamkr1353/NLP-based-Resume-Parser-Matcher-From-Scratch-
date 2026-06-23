@@ -1,0 +1,62 @@
+SNEHA REDDY
+Fresh Graduate — Computer Science
+Email: sneha.reddy@email.com | Phone: +91 9112233445 | GitHub: github.com/snehareddy
+Location: Chennai, India
+
+SUMMARY
+Recent Computer Science graduate with strong foundation in Python programming, 
+data structures, and algorithms. Completed coursework in machine learning and 
+data analysis. Eager to start career in data science or software development.
+
+EXPERIENCE
+
+Machine Learning Intern | AI Solutions Lab | May 2024 - Aug 2024
+- Assisted in building a text classification model using Python and scikit-learn
+- Preprocessed and cleaned datasets with 50K+ records using pandas
+- Implemented basic NLP techniques including tokenization and TF-IDF
+- Created data visualizations using matplotlib and presented findings to the team
+- Learned Git version control and collaborative development workflows
+
+Web Development Intern | CodeBridge Startup | Dec 2023 - Apr 2024
+- Built responsive web pages using HTML, CSS, and JavaScript
+- Developed a simple REST API using Python Flask
+- Learned basics of MySQL database queries and CRUD operations
+- Participated in daily standup meetings following Agile methodology
+
+EDUCATION
+Bachelor of Technology (B.Tech) in Computer Science | Anna University | 2020-2024
+- CGPA: 8.1/10
+- Relevant Coursework: Data Structures, Algorithms, Machine Learning, Database Management,
+  Operating Systems, Computer Networks, Software Engineering, Statistics
+
+ACADEMIC PROJECTS
+
+Movie Recommendation System | Final Year Project
+- Built a movie recommendation engine using collaborative filtering in Python
+- Used pandas and numpy for data processing on MovieLens dataset
+- Implemented cosine similarity from scratch for finding similar movies
+- Created a simple web interface using Flask
+
+Sentiment Analysis of Product Reviews
+- Analyzed Amazon product reviews using TF-IDF and Naive Bayes classification
+- Achieved 85% accuracy on a dataset of 10K reviews
+- Used Python, pandas, matplotlib for the complete pipeline
+
+Student Grade Predictor
+- Built a linear regression model to predict student grades based on study hours
+- Used Python with numpy for implementing the regression algorithm from scratch
+- Visualized results using matplotlib scatter plots
+
+SKILLS
+Programming: Python, Java, C, SQL, HTML, CSS, JavaScript
+Libraries: pandas, numpy, matplotlib, scikit-learn, Flask
+Tools: Git, GitHub, Jupyter Notebook, VS Code, MySQL
+Concepts: Data Structures, Algorithms, Machine Learning basics, NLP basics, OOP
+
+CERTIFICATIONS
+- Python for Data Science (NPTEL - IIT Madras)
+- Machine Learning by Andrew Ng (Coursera - in progress)
+
+ACHIEVEMENTS
+- First place in college-level coding competition (2023)
+- Published paper on "Applications of NLP in Education" in college journal

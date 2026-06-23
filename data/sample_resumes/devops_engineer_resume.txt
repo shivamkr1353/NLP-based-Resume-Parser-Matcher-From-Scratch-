@@ -1,0 +1,54 @@
+AMIT PATEL
+DevOps & Cloud Engineer
+Email: amit.patel@email.com | Phone: +91 9988776655 | LinkedIn: linkedin.com/in/amitpatel
+Location: Hyderabad, India
+
+SUMMARY
+Cloud Engineer with 4 years of experience designing and managing cloud infrastructure 
+on AWS. Expertise in Terraform, Docker, Kubernetes, and CI/CD automation. Passionate 
+about reliability engineering, cost optimization, and infrastructure as code.
+
+EXPERIENCE
+
+Senior Cloud Engineer | CloudNova Infrastructure | Apr 2023 - Present
+- Architected multi-region AWS infrastructure serving 1M+ daily active users
+- Managed 200+ EC2 instances, RDS databases, and S3 storage across 3 regions
+- Implemented Infrastructure as Code using Terraform, reducing deployment time by 70%
+- Built end-to-end CI/CD pipelines using Jenkins and GitHub Actions
+- Containerized 15+ microservices with Docker and orchestrated with Kubernetes (EKS)
+- Set up comprehensive monitoring with Prometheus, Grafana, and CloudWatch
+- Reduced monthly AWS costs by 35% through right-sizing and reserved instances
+
+DevOps Engineer | TechInfra Solutions | Jun 2021 - Mar 2023
+- Managed Linux servers (Ubuntu, CentOS) and automated configuration with Ansible
+- Implemented container orchestration with Docker Compose and Kubernetes
+- Set up GitLab CI/CD pipelines for 10+ development teams
+- Configured networking, VPCs, load balancers, and security groups on AWS
+- Wrote automation scripts in Python and Bash for operational tasks
+- Implemented centralized logging with ELK stack (Elasticsearch, Logstash, Kibana)
+
+System Administrator | NetCore Systems | Jan 2020 - May 2021
+- Managed on-premise Linux and Windows servers
+- Implemented backup and disaster recovery strategies
+- Automated routine tasks using Bash scripts and cron jobs
+- Provided L2/L3 support for production incidents
+
+EDUCATION
+Bachelor of Technology (B.Tech) in Computer Science | JNTU Hyderabad | 2016-2020
+- CGPA: 7.8/10
+
+SKILLS
+Cloud: AWS (EC2, S3, RDS, Lambda, VPC, EKS, CloudWatch), Azure, GCP
+IaC: Terraform, CloudFormation, Ansible, Chef
+Containers: Docker, Kubernetes, Docker Compose, Helm
+CI/CD: Jenkins, GitHub Actions, GitLab CI, CircleCI, ArgoCD
+Monitoring: Prometheus, Grafana, CloudWatch, ELK Stack, Datadog
+Scripting: Python, Bash, Shell, PowerShell
+OS: Linux (Ubuntu, CentOS, Amazon Linux), Windows Server
+Networking: VPC, DNS, Load Balancing, Firewalls, SSL/TLS
+
+CERTIFICATIONS
+- AWS Solutions Architect Associate
+- AWS DevOps Engineer Professional
+- Certified Kubernetes Administrator (CKA)
+- HashiCorp Certified Terraform Associate

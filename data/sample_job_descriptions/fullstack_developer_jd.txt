@@ -1,0 +1,37 @@
+Full Stack Developer
+
+Company: WebScale Solutions
+Location: Remote
+Experience: 2-4 years
+
+About the Role:
+We are seeking a Full Stack Developer to build and maintain web applications for our SaaS platform. You will work across the entire stack, from responsive front-end interfaces to scalable back-end APIs.
+
+Responsibilities:
+- Develop responsive web applications using React and Node.js
+- Design and implement RESTful APIs and GraphQL endpoints
+- Build and maintain PostgreSQL and MongoDB databases
+- Write clean, testable code with unit and integration tests
+- Implement authentication, authorization, and security best practices
+- Collaborate with designers to implement pixel-perfect UI components
+- Optimize application performance and page load times
+- Participate in code reviews and agile sprint planning
+
+Requirements:
+- Bachelor's degree in Computer Science or equivalent experience
+- 2-4 years of professional web development experience
+- Strong proficiency in JavaScript and TypeScript
+- Experience with React.js and modern front-end frameworks
+- Back-end experience with Node.js and Express
+- Database experience with PostgreSQL and MongoDB
+- Version control with Git and GitHub
+- Understanding of HTML, CSS, responsive design
+- Experience with REST APIs and API design patterns
+- Familiarity with testing frameworks (Jest, Cypress)
+
+Preferred Qualifications:
+- Experience with Next.js or similar SSR frameworks
+- Knowledge of Docker and container orchestration
+- Experience with cloud services (AWS or Azure)
+- Familiarity with CI/CD pipelines and DevOps practices
+- Experience with Agile/Scrum methodology

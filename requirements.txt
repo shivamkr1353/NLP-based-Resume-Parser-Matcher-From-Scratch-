@@ -1,0 +1,31 @@
+# ============================================
+# ML Resume-Job Matching System — Dependencies
+# ============================================
+
+# Utility libraries (ALLOWED by professor)
+# These are for file I/O, UI, and display only.
+# The core ML/NLP algorithms are implemented FROM SCRATCH.
+
+# --- File Parsing ---
+pdfplumber>=0.10.0
+PyPDF2>=3.0.0
+python-docx>=1.0.0
+
+# --- Web UI ---
+streamlit>=1.28.0
+
+# --- Data Display & Visualization ---
+pandas>=2.1.0
+matplotlib>=3.7.0
+plotly>=5.17.0
+openpyxl>=3.1.0
+
+# --- Notebook ---
+jupyter>=1.0.0
+ipykernel>=6.25.0
+
+# --- Testing ---
+pytest>=7.4.0
+
+# --- ONLY for validation (proving our scratch code matches sklearn) ---
+scikit-learn>=1.3.0

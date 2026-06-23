@@ -1,0 +1,38 @@
+Cloud Engineer
+
+Company: CloudFirst Infrastructure
+Location: Hyderabad, India
+Experience: 3-6 years
+
+About the Role:
+We are hiring a Cloud Engineer to design, implement, and manage our cloud infrastructure on AWS. You will automate deployments, ensure high availability, and optimize costs across our multi-region architecture.
+
+Responsibilities:
+- Design and implement cloud infrastructure on AWS
+- Write Infrastructure as Code using Terraform and CloudFormation
+- Set up and manage CI/CD pipelines using Jenkins and GitHub Actions
+- Containerize applications with Docker and orchestrate with Kubernetes
+- Implement monitoring and alerting using Prometheus and Grafana
+- Manage Linux servers, networking, and security configurations
+- Automate operational tasks using Python and Bash scripts
+- Ensure disaster recovery, backup strategies, and high availability
+- Optimize cloud costs and resource utilization
+
+Requirements:
+- Bachelor's degree in Computer Science or related field
+- 3-6 years of experience in cloud engineering or DevOps
+- Strong experience with AWS services (EC2, S3, RDS, Lambda, VPC)
+- Proficiency in Infrastructure as Code (Terraform)
+- Experience with Docker and Kubernetes
+- Strong Linux system administration skills
+- Scripting skills in Python and Bash
+- Experience with CI/CD tools (Jenkins, GitHub Actions, GitLab CI)
+- Knowledge of networking, DNS, load balancing, and firewalls
+- Experience with monitoring tools (Prometheus, Grafana, CloudWatch)
+
+Preferred Qualifications:
+- AWS Solutions Architect or DevOps Engineer certification
+- Experience with multi-cloud environments (Azure, GCP)
+- Knowledge of service mesh (Istio) and serverless architectures
+- Experience with Ansible or Chef for configuration management
+- Familiarity with security best practices and compliance
