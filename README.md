@@ -12,7 +12,11 @@ Recruiters paste a job description, upload resumes, and instantly see candidates
 
 ### Core Pipeline
 
-![Core Pipeline Diagram](core_pipeline_diagram.png)
+```
+Resume → Tokenize → Remove Stop Words → Stem → TF‑IDF Vector ─┐
+                                                                ├─→ Cosine Similarity → Ranked Results
+Job Description → Tokenize → Remove Stop Words → Stem → TF‑IDF Vector ─┘
+```
 
 ### What "From Scratch" Means
 
