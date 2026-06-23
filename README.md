@@ -1,6 +1,8 @@
-# Resume‑Job Matching System
+# NLP‑based Resume Parser & Matcher
 
 > Rank resumes against a job description using **TF‑IDF** and **Cosine Similarity** — every core algorithm written from scratch in Python.
+
+🔗 **Live Demo:** [Deploy on Streamlit Cloud](https://share.streamlit.io/) *(Paste your deployed Streamlit URL here)*
 
 ---
 
@@ -56,7 +58,6 @@ Check **"Use sample data for demo"** in the sidebar to try it immediately with t
 ```
 ├── app.py                        # Streamlit dashboard
 ├── requirements.txt
-├── research_notes.md             # Detailed theory & math reference
 │
 ├── src/
 │   ├── preprocessing/            # Tokenizer · Stop words · Stemmer
