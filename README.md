@@ -32,22 +32,34 @@ Utility libraries (file I/O, UI, charts) are used where they don't replace the l
 
 ---
 
-## Quick Start
+## How to Run
 
+### 1. Installation
+Clone the repository and install the dependencies:
 ```bash
-# 1. Install dependencies
 pip install -r requirements.txt
-
-# 2. Launch the app
-streamlit run app.py
-
-# 3. Run tests (includes validation against sklearn)
-python -m pytest tests/ -v
 ```
 
-Check **"Use sample data for demo"** in the sidebar to try it immediately with the bundled resumes and job descriptions.
+### 2. Launch the Recruiter Dashboard (Streamlit)
+Run the interactive dashboard locally:
+```bash
+streamlit run app.py
+```
+- Open **http://localhost:8501** in your browser.
+- Check the **"Use sample Job Description for demo"** and **"Include pre-loaded sample resumes"** checkboxes on the main page to try the pre-loaded data.
+- Click **"Run Resume‑Job Matching & Ranking"** to run the matching pipeline.
 
----
+### 3. Open the Math Walkthrough (Jupyter Notebook)
+To inspect the underlying mathematics (tokenization, stemming, TF-IDF vectors, and cosine similarity) step-by-step:
+```bash
+jupyter notebook notebooks/walkthrough.ipynb
+```
+
+### 4. Run the Test Suite
+To execute all unit and validation tests proving correctness against scikit-learn:
+```bash
+python -m pytest tests/ -v
+```
 
 ## Project Structure
 
