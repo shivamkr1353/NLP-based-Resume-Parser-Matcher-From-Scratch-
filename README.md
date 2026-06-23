@@ -2,7 +2,7 @@
 
 > Rank resumes against a job description using **TF‑IDF** and **Cosine Similarity** — every core algorithm written from scratch in Python.
 
-🔗 **Live Demo:** [Deploy on Streamlit Cloud](https://share.streamlit.io/) *(Paste your deployed Streamlit URL here)*
+🔗 **Live Demo:** [nlp-based-resume-matching.streamlit.app](https://nlp-based-resume-matching.streamlit.app/)
 
 ---
 
